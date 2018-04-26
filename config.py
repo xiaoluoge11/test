@@ -1,0 +1,4 @@
+# coding=utf-8
+DEBUG = True
+SQLALCHEMY_DATABASE_URI = "mysql://root:123456@192.168.113.168/devops"
+SQLALCHEMY_TRACK_MODIFICATIONS = False
